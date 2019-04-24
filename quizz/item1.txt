@@ -1,1 +1,3 @@
 What is regression? What is retesting?
+Retesting - to test again the  tests  which failed  before the fix 
+Regression testing -is planned as specific area or full regression testing.

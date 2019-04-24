@@ -1,1 +1,16 @@
 Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+Title : Password reset is not working  email is not received
+Version : 
+Language : EN 
+Browser ; IE/Chrome 
+Steps : 
+Click Forgot your password link ?
+ - fill in email
+Check email - inbox/junk 
+ 
+ Expected  result : 
+ An email with a new password is received by email(inbox)
+
+ Actual result : 
+ Email is not received by email inbox or spam folders
